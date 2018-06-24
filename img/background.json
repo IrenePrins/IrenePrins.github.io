@@ -1,0 +1,100 @@
+{"frames": {
+
+"cropped2.jpeg":
+{
+	"frame": {"x":0,"y":0,"w":580,"h":580},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":580},
+	"sourceSize": {"w":580,"h":580}
+},
+"dirtsmall.png":
+{
+	"frame": {"x":0,"y":580,"w":79,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":29},
+	"sourceSize": {"w":79,"h":29}
+},
+"door3.png":
+{
+	"frame": {"x":79,"y":580,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91}
+},
+"front.png":
+{
+	"frame": {"x":162,"y":580,"w":54,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":82},
+	"sourceSize": {"w":54,"h":82}
+},
+"left.png":
+{
+	"frame": {"x":216,"y":580,"w":55,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":83},
+	"sourceSize": {"w":55,"h":83}
+},
+"monstersmall.png":
+{
+	"frame": {"x":271,"y":580,"w":72,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":78},
+	"sourceSize": {"w":72,"h":78}
+},
+"pink.png":
+{
+	"frame": {"x":343,"y":580,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"right.png":
+{
+	"frame": {"x":379,"y":580,"w":47,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":83},
+	"sourceSize": {"w":47,"h":83}
+},
+"spider2.gif":
+{
+	"frame": {"x":426,"y":580,"w":160,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":140},
+	"sourceSize": {"w":160,"h":140}
+},
+"treasure_open.png":
+{
+	"frame": {"x":0,"y":720,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"water2.png":
+{
+	"frame": {"x":64,"y":720,"w":580,"h":580},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":580},
+	"sourceSize": {"w":580,"h":580}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "background.png",
+	"format": "RGBA8888",
+	"size": {"w":644,"h":1300},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a21fee9c3de8eb4d1c7bf1256c38cb19:11b2f89b4e3cccf56f4cfe5a19913769:2ba65c328dea799e4d80739630892abf$"
+}
+}
